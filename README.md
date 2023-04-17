@@ -7,4 +7,4 @@ Another attempt to do Raymarching. Ignore the crude code
  * Space/Control
  * F to switch between edit/movement modes
  
- ![alt text](https://github.com/aaron-nuy/Raymarch/blob/main/demo.png?raw=true)
+ ![alt text](https://github.com/aaron-nuy/Raymarch/blob/master/demo.png?raw=true)
