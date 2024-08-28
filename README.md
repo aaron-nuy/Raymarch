@@ -1,5 +1,5 @@
 # Raymarch
-Another attempt to do Raymarching. Ignore the crude code
+Another attempt to do Raymarching. 
 
 # Controls
 
